@@ -6,7 +6,6 @@
 
 <script>
 import Board from './components/Board.vue'
-
 export default {
   name: 'app',
   components: {
@@ -15,4 +14,7 @@ export default {
 }
 </script>
 
+<style>
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
 
+</style>
